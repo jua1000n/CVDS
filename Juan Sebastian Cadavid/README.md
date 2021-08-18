@@ -15,3 +15,6 @@
   for i in range(10):
      print("CVDS  se pasa por que se pasa")
  ```
+ 
+ ![Main](https://github.com/jua1000n/LAB1-CVDS/blob/main/Juan%20Sebastian%20Cadavid/Main.png)
+ ![Remote](https://github.com/jua1000n/LAB1-CVDS/blob/main/Juan%20Sebastian%20Cadavid/Remote.png)
