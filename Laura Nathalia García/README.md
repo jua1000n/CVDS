@@ -21,3 +21,15 @@ Código
 print("Hola mundo");
 
 ```
+
+#### Imagen
+
+ ![atardecer](https://github.com/jua1000n/LAB1-CVDS/blob/main/Laura%20Nathalia%20Garc%C3%ADa/atardecer.png)
+ 
+#### Segunda Parte
+ 
+ 
+ ![principal](https://github.com/jua1000n/LAB1-CVDS/blob/main/Laura%20Nathalia%20Garc%C3%ADa/principal.png)
+  
+  
+ ![remota](https://github.com/jua1000n/LAB1-CVDS/blob/main/Laura%20Nathalia%20Garc%C3%ADa/remota.png)
